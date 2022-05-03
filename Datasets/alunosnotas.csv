@@ -1,21 +1,32 @@
-﻿Aluno,Português,Matemática,Biologia,Física,História,Sociologia
-Abel,9,7.5,6,6,8.2,7
-Airton Senna,7.5,5,7,6.5,8,10
-Ana,5,6,7,5,7,8
-Antônio,6.9,7,8.5,5,6,8
-Bernardo,7.9,9.25,8.75,5.5,7,6
-Cabrini,8,6,9,6,7,8
-Catarina,8.4,5,8.5,6,5.5,7
-Cebolinha,8.9,7,9,10,7,9
-Chico Bento,9.5,7,8,5,9,10
-Guilherme,7.5,4,7,6.5,8,7
-Horácio,6.9,7,8.5,5,6,8
-João,9,7.5,5,5,8.2,6
-Joaquim,9.5,7,8,5,9,10
-José,6,7.5,7,8,10,9
-Lewis Hamilton,10,6,7,5,7,9
-Luisa,5,8,7.5,7,6,7
-Maria,8,6,9,6,7,6
-Mike Lauda,9.5,7,8,5,9,10
-Pedro,6,7.5,7,8,10,9
-Victor,8.9,7,9,10,7,9
+Aluno,Português,Matemática,Biologia,Física,História,Sociologia,Química,Geografica
+Abel,9,7.5,6,6,8.2,7,7.5,6
+Airton Senna,7.5,5,7,6.5,8,10,6.5,6
+Anabella,8.9,7,9,10,7,9,10,10
+Analice,5,6,7,5,7,8,5,5
+Antonella,6.9,7,8.5,5,6,8,5,7
+Benedict Cumberbatch,10,10,8,10,9,10,10,9
+Brie Larson,9.5,7,8,5,9,10,10,10
+Bruce Banner,9,10,10,10,10,10,10,10
+Catarina,8.4,5,8.5,6,5.5,7,10,10
+Elizabeth Olsen,7,8,10,8,8,7,6,10
+Elon Musk,9,10,9,10,9,9,10,9
+Gal Gadot,9.5,7,8,5,9,10,10,10
+Gemma Chan,10,10,9,9,10,10,9,10
+Guilhermina,7.5,4,7,6.5,8,7,3,2
+Jean Grey,4,5,3,7,8,5,7,6
+João,9,7.5,5,5,8.2,6,5,2
+Joaquim,9.5,7,8,10,9,10,10,10
+José,6,7.5,7,8,10,9,7,8
+Lewis Hamilton,10,9,7,5,9,9,9,10
+Lynda Carter,7,5,9,10,8,3,10,5
+Maria Alves,8,6,9,6,7,6,7,7
+Maria Rita,7.9,9.25,8.75,5.5,7,6,6,6
+Maria Silva,5,8,7.5,7,6,7,5,5
+Ocean Alves,10,10,10,10,10,10,10,10
+Pedro,6,7.5,7,8,10,9,9,9
+Peter Quill,5,5,6,3,10,2,3,6
+Roberta,8,6,9,6,7,8,9,9
+Scarlett Johansson,6.9,7,8.5,5,6,8,9,8
+Stephen Vincent,8,8,6,10,7,8,6,8
+Tony Stark,8,10,9,10,7,6,10,9
+Victor,8.9,7,9,10,7,9,9,9
